@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="3" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-27T14:58:46Z" name="Default suite" finished-at="2021-02-27T14:58:48Z" duration-ms="2083">
+    <groups>
+    </groups>
+    <test started-at="2021-02-27T14:58:46Z" name="Default test" finished-at="2021-02-27T14:58:48Z" duration-ms="2083">
+      <class name="CreateUser">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:CreateUser@e350b40]" started-at="2021-02-27T14:58:46Z" name="initialize" finished-at="2021-02-27T14:58:47Z" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="GetAllPosts()[pri:0, instance:CreateUser@e350b40]" started-at="2021-02-27T14:58:47Z" name="GetAllPosts" finished-at="2021-02-27T14:58:48Z" duration-ms="1618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetAllPosts -->
+      </class> <!-- CreateUser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
